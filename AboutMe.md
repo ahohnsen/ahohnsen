@@ -1,0 +1,14 @@
+# Andrea Hohnsen
+
+* Ich heisse **Andrea**, 
+* bin **34 Jahre** alt 
+* und wurde in **Köln** geboren.
+
+
+Wenn Sie ein Wort in ein Wörterbuch aufnehmen könnten, welches wäre es und was wäre seine Bedeutung?
+
+**Dingsbums** - universell einsetzbar für jedes andere beliebige Wort, welches einem zeitweise entfallen ist.
+
+
+Mein [Github-Profil](https://github.com/ahohnsen)
+
