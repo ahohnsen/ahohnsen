@@ -1,16 +1,16 @@
-# Andrea Hohnsen
+# Hi there
 
-Ich heisse **Andrea**, bin **34 Jahre** alt und wurde in **Köln** geboren.<br /><br />
+🌱 I am currently learning to become a **web developer** with [neue fische](https://www.neuefische.de)  
+🏠 I am living in **Cologne, Germany**.
 
-
-Q: *Wenn Sie ein Wort in ein Wörterbuch aufnehmen könnten, welches wäre es und was wäre seine Bedeutung?*
-
-A: ***[Dingsbums](https://en.wiktionary.org/wiki/Dingsbums)** - universell einsetzbar für jedes andere beliebige Wort, welches einem zeitweise entfallen ist.* <br /><br />
-                              
-Ich mag:  
+## Things I like
            
-* Tauchen 🦑  
-* Crossfit   
-* Kochen  
-* Reisen
-* Trekking  
+* Scuba diving 🐙  
+* Crossfit 🏋️‍♀️      
+* Travelling 🌏
+* Trekking 🏕️
+* Cooking & good food 🍽️   
+
+## Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahohnsen&theme=gotham)](https://git.io/streak-stats) 
