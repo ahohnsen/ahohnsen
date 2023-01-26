@@ -1,6 +1,6 @@
 # Hi there
 
-🌱 I am currently learning to become a **web developer** with [neue fische](https://www.neuefische.de)  
+🌱 I am currently working as a **Web Development Coach** at [neue fische](https://www.neuefische.de)  
 🏠 I am living in **Cologne, Germany**.
 
 ## Things I like
